@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 203869070}
   - component: {fileID: 203869069}
   m_Layer: 5
-  m_Name: YA BOY :)
+  m_Name: Stan van Berkel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -285,7 +285,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: YA BOY :)
+  m_Text: Stan van Berkel
 --- !u!222 &203869070
 CanvasRenderer:
   m_ObjectHideFlags: 0
